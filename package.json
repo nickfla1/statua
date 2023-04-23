@@ -1,0 +1,20 @@
+{
+  "name": "statua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "turbo run bundle",
+    "lint": "turbo run lint",
+    "test": "turbo run test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "turbo": "^1.9.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

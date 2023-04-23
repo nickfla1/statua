@@ -1,0 +1,20 @@
+{
+  "name": "@statua/server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tsc --noEmit",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "ts-node-dev": "^2.0.0",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4",
+    "vitest": "^0.30.1"
+  }
+}
