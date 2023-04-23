@@ -6,7 +6,7 @@
   "scripts": {
     "bundle": "tsup index.ts",
     "lint": "tsc --noEmit",
-    "test": "vitest"
+    "test": "vitest --passWithNoTests"
   },
   "keywords": [],
   "author": "",

@@ -4,6 +4,7 @@
     "bundle": {
       "outputs": ["dist/**"]
     },
-    "lint": {}
+    "lint": {},
+    "test": {}
   }
 }
